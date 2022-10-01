@@ -4,5 +4,4 @@ public abstract class Shape {
     public Integer x;
     public Integer y;
     public String color = "Black";
-
 }
