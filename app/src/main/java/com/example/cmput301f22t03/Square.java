@@ -8,5 +8,5 @@ public class Square extends Shape {
         this.y = y;
         this.side = side;
     }
-}    
+}
 
